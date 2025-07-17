@@ -1,67 +1,40 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+## Hi there! 👋
 
-###
+I'm Divy, a passionate developer who loves coding and creating innovative solutions. With a strong foundation in programming, I'm continually expanding my skills and exploring new technologies.
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+## About Me
 
-###
+I'm an enthusiastic developer with a focus on building engaging web applications. Currently, I have 30 repositories on GitHub and am actively working on projects that utilize Java and JavaScript frameworks. I enjoy solving complex problems and am always eager to learn new skills.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+## Skills & Technologies
 
-###
+java,react,redux,nodejs,html,css,git,mysql,docker,graphql,express,bootstrap,tailwind,firebase,postman,kotlin
 
-<h1 align="center">hey there 👋</h1>
+## Top Projects
 
-###
+- [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) - A repository containing a comprehensive collection of data structures and algorithms. ⭐️ 0 stars, Language: Java
+- [MegaBlog_React](https://github.com/divy6976/MegaBlog_React) - A React-based blog application that showcases my ability to build dynamic web apps. ⭐️ 0 stars, Language: JavaScript
+- [Todo-by-Redux-Toolkit](https://github.com/divy6976/Todo-by-Redux-Toolkit) - A task management app built with Redux Toolkit for state management. ⭐️ 0 stars, Language: JavaScript
+- [Currency-Converter](https://github.com/divy6976/Currency-Converter) - A currency conversion app that fetches real-time exchange rates. ⭐️ 0 stars, Language: JavaScript
 
-<h3 align="left">👩‍💻  About Me</h3>
+## GitHub Stats
 
-###
+⚡ **Public Repositories:** 30  
+⚡ **Followers:** 0  
+⚡ **Following:** 1  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divy6976&show_icons=true&theme=radical)
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+## Recent Activity
 
-###
+- Pushed updates to [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) on Jun 22, 2025
+- Added README.md for Recover Binary Search Tree in [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) on Jun 22, 2025
+- Made performance optimizations in [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) on Jun 21, 2025
+- Committed new features in [MegaBlog_React](https://github.com/divy6976/MegaBlog_React) on Jun 20, 2025
 
-<h3 align="left">🛠 Language and tools</h3>
+## Latest Blog Posts
 
-###
+Currently, I do not have any blog posts published. Stay tuned for updates!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+## Connect with Me
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+{}
