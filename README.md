@@ -4,7 +4,7 @@ I'm Divy, a passionate developer who loves coding and creating innovative soluti
 
 ## About Me
 
-I'm an enthusiastic developer with a focus on building engaging web applications. Currently, I have 30 repositories on GitHub and am actively working on projects that utilize Java and JavaScript frameworks. I enjoy solving complex problems and am always eager to learn new skills.
+I'm an enthusiastic developer with a focus on building engaging web applications. Currently, I am actively working on projects that utilize Java and JavaScript frameworks. I enjoy solving complex problems and am always eager to learn new skills.
 
 ## Skills & Technologies
 
