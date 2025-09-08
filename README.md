@@ -31,10 +31,4 @@ java,react,redux,nodejs,html,css,git,mysql,docker,graphql,express,bootstrap,tail
 - Made performance optimizations in [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) on Jun 21, 2025
 - Committed new features in [MegaBlog_React](https://github.com/divy6976/MegaBlog_React) on Jun 20, 2025
 
-## Latest Blog Posts
 
-Currently, I do not have any blog posts published. Stay tuned for updates!
-
-## Connect with Me
-
-{}
