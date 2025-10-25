@@ -1,34 +1,22 @@
-## Hi there! 👋
 
-I'm Divy, a passionate developer who loves coding and creating innovative solutions. With a strong foundation in programming, I'm continually expanding my skills and exploring new technologies.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AF700&width=435&lines=Hey+I'm+Divy;I+break+things+on+the+web)](https://git.io/typing-svg)
 
-## About Me
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Divy.Divy&rstyle=plastic&left_text=Profile%20Views%20:"  />
+</div>
 
-I'm an enthusiastic developer with a focus on building engaging web applications. Currently, I am actively working on projects that utilize Java and JavaScript frameworks. I enjoy solving complex problems and am always eager to learn new skills.
+## About
 
-## Skills & Technologies
+<p style="font-size:16px;">
+Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn’t crash (mostly), and occasionally pretend I know what I'm doing.
+</p>
 
-java,react,redux,nodejs,html,css,git,mysql,docker,graphql,express,bootstrap,tailwind,firebase,postman,kotlin
+## My Progress
 
-## Top Projects
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Divy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="130" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Divy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=12&order=3" height="130" alt="streak graph"  />
+</div>
+<br><br>
 
-- [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) - A repository containing a comprehensive collection of data structures and algorithms. ⭐️ 0 stars, Language: Java
-- [MegaBlog_React](https://github.com/divy6976/MegaBlog_React) - A React-based blog application that showcases my ability to build dynamic web apps. ⭐️ 0 stars, Language: JavaScript
-- [Todo-by-Redux-Toolkit](https://github.com/divy6976/Todo-by-Redux-Toolkit) - A task management app built with Redux Toolkit for state management. ⭐️ 0 stars, Language: JavaScript
-- [Currency-Converter](https://github.com/divy6976/Currency-Converter) - A currency conversion app that fetches real-time exchange rates. ⭐️ 0 stars, Language: JavaScript
-
-## GitHub Stats
-
-⚡ **Public Repositories:** 30  
-⚡ **Followers:** 0  
-⚡ **Following:** 1  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divy6976&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed updates to [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) on Jun 22, 2025
-- Added README.md for Recover Binary Search Tree in [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) on Jun 22, 2025
-- Made performance optimizations in [AtoZ-Dsa](https://github.com/divy6976/AtoZ-Dsa) on Jun 21, 2025
-- Committed new features in [MegaBlog_React](https://github.com/divy6976/MegaBlog_React) on Jun 20, 2025
-
-
+[![Typing SVG](https://github-readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F707&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
